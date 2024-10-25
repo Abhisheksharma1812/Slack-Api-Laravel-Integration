@@ -7,4 +7,4 @@ I create my own workplace in laravel where our employees enter his full day repo
 2) Click on Create New and select From Scrach then add your app name and select your workplace from drop down, click on save button to create.
 3) The page opens look like this  
 ![image](https://github.com/user-attachments/assets/9e57978a-597e-4ae0-9098-382430e00cd5)
- 
+ 4) Copy your Client ID and Client Secret for future use
