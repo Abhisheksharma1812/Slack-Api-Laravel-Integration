@@ -13,6 +13,8 @@ I create my own workplace in laravel where our employees enter his full day repo
 Admin_Token = xoxb-6********4-7**********6-m2S*********K
 Admin_ID    = UJ87ZHU9G
 
+6) After this i create a helper function for sending user report to manager after punchout
+
 
 ![image](https://github.com/user-attachments/assets/938b42d6-8cdb-41b3-8ef2-63357aa8d007)
 
